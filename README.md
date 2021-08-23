@@ -1,4 +1,4 @@
-# demo-vu3
+# demo-vuetify3
 
 ## Project setup
 ```
